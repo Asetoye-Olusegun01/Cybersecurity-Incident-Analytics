@@ -1,0 +1,301 @@
+IncidentID,Date,Department,AttackType,Severity,ResolutionTimeHours,Status
+INC1000,2023-04-25 00:00:00,Operations,Insider Threat,Low,51,Open
+INC1001,2023-01-26 00:00:00,Operations,Malware,High,72,Closed
+INC1002,2023-10-09 00:00:00,IT,Ransomware,Low,47,Closed
+INC1003,2023-09-08 00:00:00,Sales,Brute Force,Low,12,Open
+INC1004,2023-08-17 00:00:00,IT,Phishing,Medium,51,Closed
+INC1005,2023-05-23 00:00:00,HR,Insider Threat,Medium,2,Closed
+INC1006,2023-04-15 00:00:00,HR,Ransomware,Medium,34,Closed
+INC1007,2024-07-12 00:00:00,Sales,Malware,Low,69,Closed
+INC1008,2023-03-31 00:00:00,Marketing,Ransomware,High,16,Open
+INC1009,2024-03-08 00:00:00,Marketing,Ransomware,High,59,Open
+INC1010,2023-02-02 00:00:00,HR,Ransomware,Low,48,Open
+INC1011,2023-01-31 00:00:00,HR,DDoS,Low,34,Open
+INC1012,2023-04-06 00:00:00,Marketing,Phishing,Medium,49,Open
+INC1013,2023-08-12 00:00:00,Finance,Malware,Medium,48,Closed
+INC1014,2023-08-27 00:00:00,Marketing,Malware,Medium,14,Open
+INC1015,2024-06-01 00:00:00,IT,Malware,Medium,30,Closed
+INC1016,2023-01-28 00:00:00,Finance,Brute Force,Medium,61,Closed
+INC1017,2024-07-28 00:00:00,IT,Insider Threat,Low,4,Closed
+INC1018,2023-07-23 00:00:00,HR,Malware,High,72,Closed
+INC1019,2024-07-12 00:00:00,Finance,Insider Threat,Low,42,Closed
+INC1020,2024-03-05 00:00:00,IT,Malware,Medium,29,Closed
+INC1021,2023-08-14 00:00:00,IT,Phishing,Medium,9,Closed
+INC1022,2024-04-04 00:00:00,Finance,Brute Force,Medium,60,Closed
+INC1023,2023-10-12 00:00:00,Sales,Brute Force,Low,39,Closed
+INC1024,2023-01-07 00:00:00,Marketing,Ransomware,High,53,Closed
+INC1025,2023-06-13 00:00:00,Operations,DDoS,Low,15,Closed
+INC1026,2024-03-08 00:00:00,IT,Brute Force,Medium,18,Closed
+INC1027,2023-12-15 00:00:00,Marketing,Brute Force,Medium,6,Closed
+INC1028,2023-10-12 00:00:00,Operations,Phishing,Low,5,Closed
+INC1029,2023-06-09 00:00:00,Marketing,Malware,Low,39,Closed
+INC1030,2023-08-09 00:00:00,HR,Brute Force,Low,64,Closed
+INC1031,2023-12-11 00:00:00,Operations,Brute Force,Medium,15,Closed
+INC1032,2023-04-15 00:00:00,Marketing,DDoS,Low,13,Closed
+INC1033,2023-04-05 00:00:00,IT,Insider Threat,Medium,31,Open
+INC1034,2024-01-25 00:00:00,Operations,Phishing,Medium,69,Closed
+INC1035,2023-04-10 00:00:00,HR,DDoS,Medium,18,Open
+INC1036,2024-01-03 00:00:00,Finance,Brute Force,Low,50,Closed
+INC1037,2023-12-19 00:00:00,IT,Brute Force,Low,59,Open
+INC1038,2023-09-28 00:00:00,HR,Phishing,Low,48,Closed
+INC1039,2023-02-14 00:00:00,HR,Ransomware,High,70,Closed
+INC1040,2024-04-15 00:00:00,Operations,Ransomware,Low,54,Open
+INC1041,2024-07-03 00:00:00,Marketing,Brute Force,Low,20,Closed
+INC1042,2023-05-08 00:00:00,Finance,Brute Force,Low,54,Closed
+INC1043,2024-01-23 00:00:00,IT,DDoS,Medium,13,Closed
+INC1044,2023-03-22 00:00:00,IT,Insider Threat,Medium,63,Closed
+INC1045,2024-07-19 00:00:00,Marketing,Insider Threat,High,53,Closed
+INC1046,2023-10-28 00:00:00,Finance,DDoS,Low,36,Open
+INC1047,2024-01-06 00:00:00,Operations,DDoS,Low,5,Closed
+INC1048,2024-08-14 00:00:00,IT,Malware,Low,48,Closed
+INC1049,2023-07-16 00:00:00,Finance,Brute Force,Low,28,Open
+INC1050,2023-03-13 00:00:00,Operations,Malware,Low,57,Closed
+INC1051,2023-02-16 00:00:00,Operations,Ransomware,Low,57,Closed
+INC1052,2023-08-22 00:00:00,IT,Brute Force,Low,31,Closed
+INC1053,2023-10-24 00:00:00,Marketing,Brute Force,Medium,47,Closed
+INC1054,2023-03-23 00:00:00,Sales,Phishing,Medium,13,Closed
+INC1055,2023-08-27 00:00:00,IT,Brute Force,High,48,Closed
+INC1056,2023-04-14 00:00:00,HR,Ransomware,High,70,Closed
+INC1057,2024-01-25 00:00:00,HR,Insider Threat,Medium,46,Open
+INC1058,2023-10-12 00:00:00,Operations,Insider Threat,Medium,8,Closed
+INC1059,2024-04-09 00:00:00,Sales,Brute Force,Low,51,Open
+INC1060,2024-01-09 00:00:00,IT,Insider Threat,Medium,36,Closed
+INC1061,2023-06-16 00:00:00,HR,Malware,Low,25,Closed
+INC1062,2024-01-15 00:00:00,HR,Brute Force,Medium,16,Closed
+INC1063,2023-12-30 00:00:00,IT,Malware,Medium,59,Closed
+INC1064,2023-08-03 00:00:00,Finance,DDoS,Medium,12,Closed
+INC1065,2023-10-01 00:00:00,Operations,DDoS,High,28,Closed
+INC1066,2023-03-15 00:00:00,IT,Phishing,Medium,3,Closed
+INC1067,2023-06-25 00:00:00,Finance,Brute Force,Medium,7,Closed
+INC1068,2024-06-30 00:00:00,Operations,DDoS,Low,43,Closed
+INC1069,2023-09-08 00:00:00,Sales,DDoS,Low,32,Open
+INC1070,2023-06-17 00:00:00,Marketing,Insider Threat,Medium,17,Closed
+INC1071,2024-04-18 00:00:00,Operations,Phishing,High,27,Closed
+INC1072,2024-01-24 00:00:00,Sales,Phishing,Medium,9,Closed
+INC1073,2023-10-04 00:00:00,Marketing,Insider Threat,Low,71,Closed
+INC1074,2024-07-24 00:00:00,HR,Brute Force,Medium,27,Closed
+INC1075,2023-08-13 00:00:00,HR,Malware,High,28,Open
+INC1076,2023-11-29 00:00:00,HR,Brute Force,Medium,30,Closed
+INC1077,2023-02-27 00:00:00,Operations,Malware,Medium,43,Closed
+INC1078,2023-08-23 00:00:00,Finance,Phishing,Low,19,Closed
+INC1079,2023-02-02 00:00:00,Marketing,Ransomware,Medium,1,Open
+INC1080,2023-11-20 00:00:00,HR,Brute Force,Medium,36,Open
+INC1081,2024-02-15 00:00:00,IT,Ransomware,Low,19,Closed
+INC1082,2023-10-02 00:00:00,Marketing,Malware,High,17,Closed
+INC1083,2023-03-09 00:00:00,Marketing,Brute Force,Medium,70,Closed
+INC1084,2023-08-05 00:00:00,Finance,Ransomware,High,33,Closed
+INC1085,2024-08-03 00:00:00,Sales,Ransomware,High,23,Closed
+INC1086,2023-11-19 00:00:00,Finance,Brute Force,Medium,15,Open
+INC1087,2023-08-06 00:00:00,HR,Ransomware,Medium,4,Closed
+INC1088,2024-05-26 00:00:00,IT,Brute Force,Low,17,Open
+INC1089,2024-02-10 00:00:00,IT,Ransomware,Low,2,Closed
+INC1090,2024-04-14 00:00:00,HR,Phishing,Low,46,Closed
+INC1091,2023-05-27 00:00:00,IT,Brute Force,Medium,31,Closed
+INC1092,2023-09-29 00:00:00,Finance,Phishing,Medium,42,Open
+INC1093,2023-05-23 00:00:00,Operations,Insider Threat,Medium,3,Closed
+INC1094,2023-09-10 00:00:00,Finance,DDoS,Medium,23,Closed
+INC1095,2024-07-28 00:00:00,Operations,Phishing,Medium,34,Closed
+INC1096,2024-07-05 00:00:00,HR,Ransomware,Low,7,Closed
+INC1097,2023-09-27 00:00:00,IT,Malware,Low,17,Open
+INC1098,2024-08-21 00:00:00,Marketing,Insider Threat,Low,54,Closed
+INC1099,2024-03-14 00:00:00,Sales,Phishing,Low,68,Closed
+INC1100,2024-08-20 00:00:00,Marketing,Insider Threat,Medium,15,Open
+INC1101,2024-02-13 00:00:00,Operations,Phishing,High,9,Closed
+INC1102,2024-01-06 00:00:00,Finance,Phishing,High,61,Closed
+INC1103,2023-08-13 00:00:00,Finance,Malware,Low,58,Closed
+INC1104,2023-05-22 00:00:00,Finance,Malware,High,47,Closed
+INC1105,2024-06-05 00:00:00,Finance,Phishing,Medium,66,Open
+INC1106,2024-05-20 00:00:00,Sales,DDoS,Low,14,Closed
+INC1107,2023-04-04 00:00:00,HR,Malware,Medium,58,Open
+INC1108,2023-02-18 00:00:00,Finance,Malware,Medium,65,Open
+INC1109,2023-04-23 00:00:00,Operations,Malware,Medium,29,Closed
+INC1110,2023-06-06 00:00:00,IT,Brute Force,Medium,6,Closed
+INC1111,2023-06-13 00:00:00,Sales,Insider Threat,Low,67,Closed
+INC1112,2024-03-08 00:00:00,Operations,Phishing,Low,39,Closed
+INC1113,2023-03-07 00:00:00,Operations,DDoS,Low,59,Closed
+INC1114,2024-01-30 00:00:00,Finance,Malware,Low,4,Closed
+INC1115,2024-01-26 00:00:00,IT,Brute Force,High,8,Closed
+INC1116,2024-04-24 00:00:00,Finance,Insider Threat,Medium,62,Closed
+INC1117,2024-06-25 00:00:00,Operations,Ransomware,Low,52,Closed
+INC1118,2023-09-15 00:00:00,HR,Ransomware,Medium,55,Open
+INC1119,2024-07-20 00:00:00,Sales,Malware,Medium,14,Open
+INC1120,2023-01-12 00:00:00,HR,DDoS,Medium,63,Closed
+INC1121,2023-04-28 00:00:00,Sales,DDoS,Low,57,Closed
+INC1122,2024-07-03 00:00:00,Finance,Insider Threat,Low,10,Closed
+INC1123,2023-10-01 00:00:00,Finance,Insider Threat,Medium,11,Closed
+INC1124,2023-12-15 00:00:00,Sales,Phishing,Low,42,Open
+INC1125,2023-04-25 00:00:00,IT,Malware,High,19,Closed
+INC1126,2023-10-28 00:00:00,IT,Ransomware,Low,9,Closed
+INC1127,2024-03-21 00:00:00,Finance,Phishing,High,17,Closed
+INC1128,2023-06-11 00:00:00,Finance,DDoS,Medium,36,Closed
+INC1129,2024-04-09 00:00:00,HR,Phishing,Low,71,Closed
+INC1130,2023-01-04 00:00:00,Operations,Ransomware,High,42,Closed
+INC1131,2023-09-27 00:00:00,Finance,DDoS,Low,49,Open
+INC1132,2024-05-27 00:00:00,Sales,Insider Threat,Medium,68,Open
+INC1133,2023-07-02 00:00:00,IT,Brute Force,Medium,38,Closed
+INC1134,2024-06-03 00:00:00,IT,Brute Force,Medium,59,Closed
+INC1135,2023-04-19 00:00:00,HR,Insider Threat,Medium,65,Closed
+INC1136,2023-11-02 00:00:00,IT,Malware,Medium,56,Open
+INC1137,2024-06-03 00:00:00,IT,Phishing,Low,13,Closed
+INC1138,2023-07-23 00:00:00,Operations,DDoS,Low,15,Closed
+INC1139,2023-06-06 00:00:00,Marketing,Insider Threat,Medium,71,Closed
+INC1140,2024-01-18 00:00:00,Sales,Insider Threat,Medium,28,Closed
+INC1141,2023-06-15 00:00:00,Operations,Malware,Low,56,Closed
+INC1142,2024-07-06 00:00:00,Marketing,Phishing,Low,58,Closed
+INC1143,2024-06-27 00:00:00,IT,Insider Threat,Medium,30,Closed
+INC1144,2023-01-01 00:00:00,HR,Ransomware,High,53,Open
+INC1145,2023-11-28 00:00:00,HR,Insider Threat,Low,44,Open
+INC1146,2024-05-15 00:00:00,IT,DDoS,Medium,59,Closed
+INC1147,2023-01-20 00:00:00,Finance,Phishing,Low,52,Closed
+INC1148,2023-04-25 00:00:00,Marketing,DDoS,Low,54,Open
+INC1149,2024-01-07 00:00:00,IT,Phishing,Medium,13,Closed
+INC1150,2023-11-11 00:00:00,HR,Ransomware,High,41,Closed
+INC1151,2023-09-03 00:00:00,HR,DDoS,Medium,55,Closed
+INC1152,2023-03-01 00:00:00,Marketing,Brute Force,Medium,41,Closed
+INC1153,2023-09-04 00:00:00,Sales,Insider Threat,High,33,Closed
+INC1154,2024-08-03 00:00:00,IT,Ransomware,Medium,48,Open
+INC1155,2023-03-22 00:00:00,Operations,Phishing,Medium,20,Open
+INC1156,2023-03-29 00:00:00,IT,DDoS,Low,61,Open
+INC1157,2024-05-12 00:00:00,Sales,Insider Threat,Medium,9,Closed
+INC1158,2023-03-12 00:00:00,Marketing,Ransomware,Low,12,Closed
+INC1159,2024-06-29 00:00:00,Marketing,Phishing,High,11,Closed
+INC1160,2023-05-09 00:00:00,HR,Brute Force,High,12,Open
+INC1161,2023-05-12 00:00:00,Sales,Brute Force,High,56,Closed
+INC1162,2024-05-01 00:00:00,Marketing,Phishing,Low,13,Closed
+INC1163,2024-07-16 00:00:00,Finance,Brute Force,Low,48,Closed
+INC1164,2023-06-19 00:00:00,IT,Ransomware,High,17,Closed
+INC1165,2023-09-29 00:00:00,HR,Insider Threat,Medium,72,Closed
+INC1166,2024-06-24 00:00:00,Operations,Brute Force,Low,8,Closed
+INC1167,2024-03-09 00:00:00,Sales,Insider Threat,Medium,72,Closed
+INC1168,2023-08-05 00:00:00,HR,Malware,High,72,Closed
+INC1169,2024-07-06 00:00:00,Marketing,Brute Force,Low,43,Open
+INC1170,2023-07-25 00:00:00,Marketing,Malware,High,16,Open
+INC1171,2023-11-16 00:00:00,Operations,Insider Threat,Medium,53,Closed
+INC1172,2024-02-13 00:00:00,Operations,DDoS,Medium,46,Open
+INC1173,2024-01-18 00:00:00,Operations,Insider Threat,Low,55,Closed
+INC1174,2024-03-24 00:00:00,Operations,Ransomware,High,7,Closed
+INC1175,2024-06-13 00:00:00,Operations,DDoS,Low,37,Open
+INC1176,2024-04-07 00:00:00,Finance,DDoS,High,40,Open
+INC1177,2023-05-04 00:00:00,IT,Brute Force,Low,46,Closed
+INC1178,2023-09-11 00:00:00,Sales,Brute Force,Low,14,Closed
+INC1179,2023-08-19 00:00:00,HR,Brute Force,High,65,Closed
+INC1180,2023-03-07 00:00:00,Operations,Insider Threat,Low,28,Closed
+INC1181,2023-12-13 00:00:00,IT,DDoS,High,20,Closed
+INC1182,2023-01-22 00:00:00,Marketing,Ransomware,Low,62,Closed
+INC1183,2024-07-21 00:00:00,IT,Ransomware,Low,29,Closed
+INC1184,2023-08-24 00:00:00,Operations,Malware,High,14,Open
+INC1185,2023-08-14 00:00:00,HR,Phishing,High,45,Open
+INC1186,2023-01-08 00:00:00,Operations,Ransomware,Low,72,Open
+INC1187,2023-03-14 00:00:00,IT,Brute Force,Medium,48,Closed
+INC1188,2023-03-02 00:00:00,Marketing,Malware,Low,15,Closed
+INC1189,2023-08-23 00:00:00,IT,Brute Force,Medium,36,Closed
+INC1190,2023-03-11 00:00:00,Operations,DDoS,Low,29,Closed
+INC1191,2023-02-02 00:00:00,Sales,DDoS,Low,55,Open
+INC1192,2023-12-05 00:00:00,IT,Insider Threat,Low,72,Open
+INC1193,2023-03-14 00:00:00,Sales,Brute Force,Medium,72,Open
+INC1194,2024-06-10 00:00:00,Operations,Ransomware,Medium,4,Closed
+INC1195,2023-09-01 00:00:00,IT,Phishing,High,35,Closed
+INC1196,2023-10-13 00:00:00,Marketing,Brute Force,Medium,4,Open
+INC1197,2024-05-12 00:00:00,Finance,Ransomware,High,24,Closed
+INC1198,2023-08-08 00:00:00,Finance,Malware,Medium,35,Closed
+INC1199,2024-07-06 00:00:00,Sales,Brute Force,Medium,40,Closed
+INC1200,2023-05-16 00:00:00,Operations,Malware,Medium,44,Closed
+INC1201,2024-08-07 00:00:00,Sales,Ransomware,Low,45,Closed
+INC1202,2024-08-13 00:00:00,Operations,Ransomware,Medium,1,Closed
+INC1203,2024-04-29 00:00:00,Operations,Ransomware,Low,24,Open
+INC1204,2023-09-06 00:00:00,Finance,Ransomware,Low,19,Open
+INC1205,2024-04-29 00:00:00,Marketing,DDoS,Low,52,Closed
+INC1206,2024-02-21 00:00:00,Marketing,Insider Threat,High,9,Closed
+INC1207,2023-07-14 00:00:00,IT,Ransomware,Medium,19,Open
+INC1208,2023-04-07 00:00:00,Sales,DDoS,Medium,4,Closed
+INC1209,2023-04-10 00:00:00,Marketing,Phishing,Low,12,Closed
+INC1210,2024-03-17 00:00:00,HR,DDoS,Low,68,Closed
+INC1211,2023-12-29 00:00:00,IT,Malware,Low,28,Closed
+INC1212,2024-03-09 00:00:00,IT,Phishing,Low,49,Closed
+INC1213,2024-02-25 00:00:00,Finance,Malware,Low,54,Closed
+INC1214,2024-04-23 00:00:00,Sales,Insider Threat,Low,59,Closed
+INC1215,2023-02-25 00:00:00,Marketing,Brute Force,Low,44,Open
+INC1216,2023-04-11 00:00:00,Marketing,Brute Force,Medium,21,Closed
+INC1217,2023-03-04 00:00:00,Operations,DDoS,Low,48,Open
+INC1218,2024-02-17 00:00:00,IT,Malware,Medium,40,Closed
+INC1219,2023-12-14 00:00:00,Sales,Insider Threat,Medium,42,Closed
+INC1220,2023-04-22 00:00:00,Sales,Brute Force,Low,11,Closed
+INC1221,2023-09-12 00:00:00,Sales,Insider Threat,Low,7,Closed
+INC1222,2023-07-16 00:00:00,Operations,Insider Threat,Medium,20,Open
+INC1223,2023-07-14 00:00:00,Finance,Brute Force,Low,21,Open
+INC1224,2024-07-03 00:00:00,Marketing,Brute Force,Medium,7,Closed
+INC1225,2024-04-04 00:00:00,Sales,Phishing,Medium,11,Open
+INC1226,2023-05-24 00:00:00,Operations,Phishing,Medium,35,Closed
+INC1227,2024-03-08 00:00:00,Finance,Ransomware,Low,57,Closed
+INC1228,2023-07-07 00:00:00,Operations,Malware,Medium,55,Open
+INC1229,2023-10-13 00:00:00,HR,Brute Force,Medium,63,Closed
+INC1230,2024-04-18 00:00:00,IT,Insider Threat,Medium,57,Closed
+INC1231,2023-09-13 00:00:00,Marketing,Malware,High,54,Closed
+INC1232,2023-03-19 00:00:00,Operations,Ransomware,Medium,35,Closed
+INC1233,2024-03-29 00:00:00,Operations,Insider Threat,Low,28,Closed
+INC1234,2024-07-17 00:00:00,Marketing,DDoS,Medium,66,Closed
+INC1235,2023-04-11 00:00:00,IT,Ransomware,Low,15,Closed
+INC1236,2023-02-21 00:00:00,HR,Brute Force,High,45,Open
+INC1237,2024-07-07 00:00:00,Finance,DDoS,High,56,Open
+INC1238,2023-01-16 00:00:00,Operations,DDoS,Low,15,Closed
+INC1239,2023-04-06 00:00:00,IT,Ransomware,High,37,Closed
+INC1240,2023-08-31 00:00:00,Finance,Brute Force,Medium,63,Open
+INC1241,2023-06-20 00:00:00,Finance,Insider Threat,Medium,68,Open
+INC1242,2024-02-21 00:00:00,Finance,DDoS,Low,40,Closed
+INC1243,2024-05-12 00:00:00,HR,Ransomware,High,6,Closed
+INC1244,2024-05-07 00:00:00,HR,Ransomware,High,29,Closed
+INC1245,2023-08-07 00:00:00,Finance,Insider Threat,Low,51,Closed
+INC1246,2024-02-15 00:00:00,Sales,Brute Force,Low,8,Closed
+INC1247,2023-03-02 00:00:00,Marketing,Ransomware,Low,1,Closed
+INC1248,2023-06-18 00:00:00,HR,Ransomware,Low,27,Closed
+INC1249,2024-01-24 00:00:00,Sales,Ransomware,Medium,39,Open
+INC1250,2023-01-03 00:00:00,Sales,Malware,Low,28,Closed
+INC1251,2024-02-04 00:00:00,Operations,Phishing,High,18,Open
+INC1252,2023-09-29 00:00:00,Marketing,Insider Threat,Low,33,Closed
+INC1253,2024-04-10 00:00:00,Finance,Malware,Low,38,Open
+INC1254,2023-10-20 00:00:00,Operations,Ransomware,High,42,Closed
+INC1255,2024-03-09 00:00:00,Operations,Phishing,Medium,16,Open
+INC1256,2024-07-23 00:00:00,Sales,Insider Threat,High,1,Closed
+INC1257,2024-05-13 00:00:00,Sales,DDoS,High,64,Closed
+INC1258,2023-06-08 00:00:00,Sales,Insider Threat,Medium,56,Closed
+INC1259,2023-07-14 00:00:00,Finance,Malware,High,23,Closed
+INC1260,2023-10-31 00:00:00,Finance,Malware,High,17,Closed
+INC1261,2023-08-11 00:00:00,Operations,Malware,Medium,49,Closed
+INC1262,2023-03-01 00:00:00,Operations,Insider Threat,Low,69,Open
+INC1263,2024-08-16 00:00:00,HR,Brute Force,High,30,Closed
+INC1264,2024-07-09 00:00:00,HR,Ransomware,Low,65,Closed
+INC1265,2023-03-04 00:00:00,Sales,Insider Threat,Low,72,Closed
+INC1266,2023-11-18 00:00:00,Finance,DDoS,Low,46,Open
+INC1267,2023-02-28 00:00:00,Finance,DDoS,Medium,10,Open
+INC1268,2023-02-21 00:00:00,Operations,DDoS,Medium,51,Closed
+INC1269,2024-08-21 00:00:00,Marketing,Ransomware,Medium,6,Closed
+INC1270,2024-05-03 00:00:00,Sales,Phishing,Low,56,Closed
+INC1271,2024-05-29 00:00:00,HR,Malware,Low,3,Open
+INC1272,2024-06-27 00:00:00,Marketing,Ransomware,Medium,59,Open
+INC1273,2023-06-11 00:00:00,Finance,Malware,Low,10,Open
+INC1274,2023-02-28 00:00:00,HR,Ransomware,Medium,41,Closed
+INC1275,2024-06-04 00:00:00,Sales,Malware,Low,55,Open
+INC1276,2023-03-24 00:00:00,Finance,Ransomware,Low,52,Closed
+INC1277,2023-07-10 00:00:00,Sales,Phishing,Low,54,Closed
+INC1278,2023-03-12 00:00:00,Operations,Insider Threat,High,38,Open
+INC1279,2023-03-11 00:00:00,Marketing,DDoS,Low,15,Closed
+INC1280,2023-08-29 00:00:00,Marketing,Malware,Medium,52,Closed
+INC1281,2024-02-18 00:00:00,Marketing,Ransomware,Low,3,Closed
+INC1282,2023-05-03 00:00:00,IT,Phishing,Medium,42,Closed
+INC1283,2024-08-06 00:00:00,Sales,Phishing,High,22,Closed
+INC1284,2023-09-10 00:00:00,Marketing,DDoS,Low,59,Closed
+INC1285,2024-08-15 00:00:00,Operations,Ransomware,Medium,47,Closed
+INC1286,2023-02-10 00:00:00,Marketing,Insider Threat,Low,12,Closed
+INC1287,2023-03-25 00:00:00,Sales,Malware,Low,56,Open
+INC1288,2024-03-05 00:00:00,Marketing,Insider Threat,High,14,Closed
+INC1289,2024-08-20 00:00:00,Sales,Brute Force,High,32,Closed
+INC1290,2024-08-01 00:00:00,Finance,Phishing,High,56,Closed
+INC1291,2024-06-19 00:00:00,Operations,Phishing,Low,52,Closed
+INC1292,2023-11-20 00:00:00,Sales,DDoS,High,68,Open
+INC1293,2023-09-25 00:00:00,Sales,Ransomware,High,11,Open
+INC1294,2023-07-29 00:00:00,IT,Brute Force,Medium,51,Closed
+INC1295,2023-11-18 00:00:00,Finance,Brute Force,Low,40,Closed
+INC1296,2023-09-02 00:00:00,Operations,Brute Force,Medium,44,Closed
+INC1297,2023-09-29 00:00:00,IT,Ransomware,Low,29,Open
+INC1298,2024-02-10 00:00:00,Marketing,Malware,Medium,43,Open
+INC1299,2023-05-15 00:00:00,Sales,Phishing,Medium,22,Closed
